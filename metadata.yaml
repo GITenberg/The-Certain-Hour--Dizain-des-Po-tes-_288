@@ -1,0 +1,32 @@
+_repo: The-Certain-Hour--Dizain-des-Po-tes-_288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1995-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+tableOfContents: '"Ballad of the double-soul" -- Auctorial induction -- Belhs cavaliers
+  -- Balthazar''s daughter -- Judith''s creed -- Concerning Corinna --  Olivia''s
+  pottage -- A brown woman -- Pro honoria -- The irresistible Ogle -- A princess of
+  Grub Street -- The lady of all our dreams -- "Ballad of plagiary"'
+title: The Certain Hour (Dizain des Poëtes)
+url: http://www.gutenberg.org/ebooks/288
